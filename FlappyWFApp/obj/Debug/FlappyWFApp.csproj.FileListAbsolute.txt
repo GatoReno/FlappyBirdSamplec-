@@ -1,0 +1,10 @@
+C:\Users\erpre\source\repos\FlappyWFApp\FlappyWFApp\bin\Debug\FlappyWFApp.exe.config
+C:\Users\erpre\source\repos\FlappyWFApp\FlappyWFApp\bin\Debug\FlappyWFApp.exe
+C:\Users\erpre\source\repos\FlappyWFApp\FlappyWFApp\bin\Debug\FlappyWFApp.pdb
+C:\Users\erpre\source\repos\FlappyWFApp\FlappyWFApp\obj\Debug\FlappyWFApp.csprojAssemblyReference.cache
+C:\Users\erpre\source\repos\FlappyWFApp\FlappyWFApp\obj\Debug\FlappyWFApp.Form1.resources
+C:\Users\erpre\source\repos\FlappyWFApp\FlappyWFApp\obj\Debug\FlappyWFApp.Properties.Resources.resources
+C:\Users\erpre\source\repos\FlappyWFApp\FlappyWFApp\obj\Debug\FlappyWFApp.csproj.GenerateResource.cache
+C:\Users\erpre\source\repos\FlappyWFApp\FlappyWFApp\obj\Debug\FlappyWFApp.csproj.CoreCompileInputs.cache
+C:\Users\erpre\source\repos\FlappyWFApp\FlappyWFApp\obj\Debug\FlappyWFApp.exe
+C:\Users\erpre\source\repos\FlappyWFApp\FlappyWFApp\obj\Debug\FlappyWFApp.pdb
