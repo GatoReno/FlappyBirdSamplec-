@@ -45,7 +45,8 @@ namespace FlappyWFApp
             if (
                 flappy.Bounds.IntersectsWith(pipeTop.Bounds) ||
                 flappy.Bounds.IntersectsWith(pipeBottom.Bounds) ||
-                flappy.Bounds.IntersectsWith(ground.Bounds)
+                flappy.Bounds.IntersectsWith(ground.Bounds) ||
+                flappy.Top < -25
                 )
             {
                 endGameAlv();
@@ -63,6 +64,7 @@ namespace FlappyWFApp
             {
                 pipeSpeed = 8;
             }
+            
         }
 
         private void keyDownPressed(object sender, KeyEventArgs e)
